@@ -1,0 +1,8 @@
+04:11:15 2023-05-11
+Started Mabs-hifiasm
+
+You have run Mabs-hifiasm of version 2.19 with the following command: /home/snow/ssd/programs/Mabs-2.19/mabs-hifiasm.py --pacbio_hifi_reads ../Nm_merge.fastq --download_busco_dataset hemiptera_odb10.2020-08-05.tar.gz --number_of_busco_orthogroups all --threads 128
+
+04:11:19 2023-05-11
+Mabs-hifiasm started to analyze point 1 of 10. -s in this point is 0.382
+Error. Couldn't calculate AG. See stderr and stdout for the reason why.

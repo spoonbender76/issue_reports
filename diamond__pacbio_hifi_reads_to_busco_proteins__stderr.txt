@@ -1,0 +1,15 @@
+diamond v2.0.15.153 (C) Max Planck Society for the Advancement of Science
+Documentation, support and updates available at http://www.diamondsearch.org
+Please cite: http://dx.doi.org/10.1038/s41592-021-01101-x Nature Methods (2021)
+
+#CPU threads: 128
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Temporary directory: ./Mabs_results
+#Target sequences to report alignments for: 1
+Opening the database... Database file is not a DIAMOND or BLAST database, treating as FASTA.
+Database input file: ./Mabs_results/reference_busco_proteins.fasta
+Opening the database file...  [0s]
+Loading sequences... Warning: Failed to delete file ./Mabs_results/diamond-tmp-dBaIeB
+ [0.005s]
+ [0.007s]
+Error: Error reading input stream at line 2636: Invalid character (.) in sequence
